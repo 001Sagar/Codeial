@@ -1,0 +1,15 @@
+{
+  "name": "codeial",
+  "version": "1.0.0",
+  "description": "My all Social Web apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Social",
+    "Media"
+  ],
+  "author": "Sagar Arya",
+  "license": "ISC"
+}
